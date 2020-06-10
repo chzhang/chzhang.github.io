@@ -88,7 +88,7 @@ publications:
       - title: "Assessing the Memory Ability of Recurrent Neural Networks"
         link: "https://arxiv.org/abs/2002.07422"
         authors: Zhang, Cheng and Li, Qiuchi and Hua, Lingyu and Song, Dawei
-        conference: SIGIR 2019
+        conference: ECAI 2020
 
       - title: "SCSS-LIE: A Novel Synchronous Collaborative Search System with a Live Interactive Engine"
         link: "https://dl.acm.org/doi/abs/10.1145/3331184.3331407"
