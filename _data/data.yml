@@ -85,19 +85,23 @@ education:
 publications:
     title: Publications & Patents
     papers:
+      - title: "Assessing the Memory Ability of Recurrent Neural Networks"
+        link: "https://arxiv.org/abs/2002.07422"
+        authors: Zhang, Cheng and Li, Qiuchi and Hua, Lingyu and Song, Dawei
+        conference: SIGIR 2019
 
       - title: "SCSS-LIE: A Novel Synchronous Collaborative Search System with a Live Interactive Engine"
-        link: "#https://dl.acm.org/doi/abs/10.1145/3331184.3331407"
+        link: "https://dl.acm.org/doi/abs/10.1145/3331184.3331407"
         authors: Wang, Junyan and Zhang, Peng and Zhang, Cheng and Song, Dawei
         conference: SIGIR 2019
 
       - title: Text classification with enriched word features
-        link: "#https://link.springer.com/chapter/10.1007/978-3-319-97310-4_31"
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-97310-4_31"
         authors: Xu, Jingda and Zhang, Cheng and Zhang, Peng and Song, Dawei
         conference: PRICAI 2018
       
       - title: "SECC: A Novel Search Engine Interface with Live Chat Channel"
-        link: "#https://dl.acm.org/citation.cfm?id=2911454"
+        link: "https://dl.acm.org/citation.cfm?id=2911454"
         authors: Zhang, Cheng and Zhang, Peng and Li, Jingfei and Song, Dawei
         conference: SIGIR 2016
 
